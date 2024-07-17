@@ -8,8 +8,11 @@ This repository has 4 scripts:
 
 
 ‘Pool_Expansion.ipynb’ will compute the percent cover of pools and will generate a plot of expansion from 2009 to 2021. 
+
 ‘Pool_Density.ipynb’ will compute the number of pools per square kilometer of marsh and will generate a plot of density from 2009 to 2021. 
+
 ‘Pool_Changes_Intersection.ipynb’ will compute how the pools have changed over time based on how they overlap. For example, if one pool overlaps with more than one pool, it split apart. This will generate a graph of how the pools have changed over time and the percent change in pool cover grouped by type of change. 
+
 ‘PoolSize_Elevation_SeaLevel.ipynb’ will compute the pool size based on pool type, pool elevation, and parts of the script to get marsh elevations. This also generates a graph of pool size compared to elevation. This will compute the relative rate of sea level rise from data from the Portland, ME NOAA tide gauge. 
 
 
